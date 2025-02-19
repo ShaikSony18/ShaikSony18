@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaik Borela Sony</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" align=right width=300 height=250>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksony18&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksony18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaiksony18" alt="shaiksony18" /></a> </p>
